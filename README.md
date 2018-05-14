@@ -1,2 +1,2 @@
 # ruby-monads
-Monads in Ruby
+Don't take this seriously
